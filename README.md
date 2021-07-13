@@ -1,14 +1,12 @@
 java仿豆瓣电影影评微信小程序
 
-1.服务器：阿里云服务器（www.guot.top）Windows Server 2008
+1.数据库：MySql
 
-2.PC机：Windows7操作系统-宏碁v3-571G
+2.前端：微信小程序
 
-3.数据库：MySql
+3.后台：SSM框架（当下最流行）
 
-4.前端：微信小程序
-
-6.后台：SSM框架（当下最流行）
+需要的加扣扣389790849，另接项目代做，定制，技术辅导，bug修复
 
 
 ![image](https://github.com/1311236/movie/blob/main/images/20210415115937308.png)
