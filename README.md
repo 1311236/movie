@@ -22,3 +22,7 @@
 
 
 ![image](https://github.com/1311236/movie/blob/main/images/20210415115937467.png)
+
+![image](https://github.com/1311236/movie/blob/main/images/Capture001.png)
+
+
